@@ -43,5 +43,6 @@ $ ./to_gif.sh file.mov
 
 # Ресурсы
 
-[https://gist.github.com/tskaggs/6394639](https://gist.github.com/tskaggs/6394639)
+[Install brew on Silicon apple m1](https://brew.sh)
+[gist.github.com/tskaggs](https://gist.github.com/tskaggs/6394639)
 
